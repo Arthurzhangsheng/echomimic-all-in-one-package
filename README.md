@@ -26,6 +26,9 @@ I have tested it on my own computer with Windows 10 and a 3080 Ti graphics card,
 If you encounter any issues, please leave a message in the issue section.
 
 ## download 下载链接 
-v20240811_bugfix  
-https://pan.baidu.com/s/1cd3UOMQkjxKYau0kFYciYA?pwd=7xoo 
+echomimic一体包240826.zip  
+https://pan.baidu.com/s/1JTBQs_PVzhWDZMJ70vgl1g?pwd=mxvx   
+
+~~v20240811_bugfix~~  
+~~https://pan.baidu.com/s/1cd3UOMQkjxKYau0kFYciYA?pwd=7xoo~~ 
 
